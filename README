@@ -1,0 +1,17 @@
+The program will return the maxi-sub-rectangle of a matrix.
+To use this program, you need to run it in the cmd with following command
+homework-02.exe FileDir #basic mode
+homework-02.exe -h FileDir #row connected
+homework-02.exe -v FileDir #column connected
+homework-02.exe -h -v FileDir #both sides connected
+homework-02.exe -a FileDir #return a connected block, may not worked functionally 
+homework-02.exe -a -h -v FileDir #return a connected block, may not worked functionally 
+
+The input file should be formated as follows:
+n,
+m,
+a11,...,a1m,
+...
+an1,...,anm,
+
+BY tonyshaw BUAA
